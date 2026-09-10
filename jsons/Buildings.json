@@ -1,9 +1,20 @@
 [
     {
-        "name": "Temple",
-        "faith": 2,
+        "name": "Shrine",
+        "faith": 1,
         "specialistSlots": {"Preacher": 1},
         "maintenance": 1,
+        "hurryCostModifier": 10,
+        "requiredTech" : "Pottery",
+        "uniques": [
+            "Only available <when religion is enabled>"
+        ],
+    },
+    {
+        "name": "Temple",
+        "faith": 2,
+        "specialistSlots": {"Preacher": 2},
+        "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredTech" : "Spirituality",
         "uniques": [
