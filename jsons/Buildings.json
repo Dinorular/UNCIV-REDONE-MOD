@@ -16,7 +16,7 @@
         "specialistSlots": {"Preacher": 2},
         "maintenance": 2,
         "hurryCostModifier": 25,
-        "requiredTech" : "Spirituality",
+        "requiredTech" : "Philosophy",
         "uniques": [
             "Only available <when religion is enabled>",
             "Destroyed when the city is captured"
