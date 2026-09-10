@@ -6,12 +6,15 @@
         "color": [255,255,255]
     },
     {
-        "name": "Militant",
-        "production": 1,
-        "food": 3,
+        "name": "Scholar",
+        "uniqueTo": "China"
+        "replaces": "Artist"
+        "culture": 2,
+        "science": 2,
         "greatPersonPoints": {
-            "Great General": 1000
-        },
+            "Great Scientist": 2,
+            "Great Artist": 2,
+        }
         "color": [250,0,0]
     }
 ]
