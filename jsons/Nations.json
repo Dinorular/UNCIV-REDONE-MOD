@@ -34,6 +34,8 @@
     "outerColor": [0,0,0],
     "innerColor": [255,255,255],
     "cities": ["City One", "City Two"]
+    "uniques": [
+      "[+1 Teacher Slot]"
   },
   {
     "name": "India",
