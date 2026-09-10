@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Egypt",
+    "leaderName": "Hatshepsut",
+    "adjective": ["Egyptian"],
+
+    "startIntroPart1": "Queen of the Nile, Hatshepsut..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"],
+  },
+  {
+    "name": "China",
+    "leaderName": "Wu Zetian",
+    "adjective": ["Chinese"],
+
+    "startIntroPart1": "Great Matriarch of China, Wu Zetian..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "India",
+    "leaderName": "Chandragupta",
+    "adjective": ["Indian"],
+
+    "startIntroPart1": "Mauryan Emperor, Chandragupta..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "Babylon",
+    "leaderName": "Hammurabi",
+    "adjective": ["Babylonian"],
+
+    "startIntroPart1": "Blessed One, Hammurabi..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "Greece",
+    "leaderName": "Solon",
+    "adjective": ["Greek"],
+
+    "startIntroPart1": "Father of Diplomacy, Solon..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "Inca",
+    "leaderName": "Pachacuti",
+    "adjective": ["Incan"],
+
+    "startIntroPart1": "Earth-shaking Monarch, Pachacuti..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  }
+]
+    
