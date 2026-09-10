@@ -2,7 +2,7 @@
     {
         "name": "Shrine",
         "faith": 1,
-        "specialistSlots": {"Teacher": 1},
+        "specialistSlots": {"Militant": 1},
         "maintenance": 1,
         "hurryCostModifier": 10,
         "requiredTech" : "Pottery",
