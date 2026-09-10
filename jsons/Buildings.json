@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Temple",
+        "faith": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "requiredTech" : "Spirituality",
+        "uniques": [
+            "Only available <when religion is enabled>",
+            "Only available in <in cities with at least [3] [Population]",
+            "Shown while unbuildable",
+            "Destroyed when the city is captured"
+        ],
+    }
+]
