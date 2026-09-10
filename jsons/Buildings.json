@@ -26,4 +26,5 @@
         "cost": 50,
         "hurryCostModifier": 25,
         "requiredTech": "Writing",
+    }
 ]
