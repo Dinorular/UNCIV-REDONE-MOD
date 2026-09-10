@@ -22,6 +22,8 @@
         "name": "Teaching Grounds",
         "isNationalWonder": true,
         "specialistSlots": {"Teacher": 1},
+        "cost": 0,
+        "hurryCostModifier": 0,
         "requiredTech": "Agriculture",
         "uniques": [
             "Indicates the capital city"
