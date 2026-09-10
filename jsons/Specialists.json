@@ -6,11 +6,6 @@
         "color": [255,255,255]
     },
     {
-        "name": "Farmer",
-        "food": 5,
-        "color": [0,250,0]
-    },
-    {
         "name": "Teacher",
         "greatPersonPoints": {
             "Great Scientist" : 2,
@@ -20,5 +15,13 @@
             "Great Prophet": 2
         },
         "color": [0,230,240]
+    },
+    {
+        "name": "Militant",
+        "production": 1,
+        "greatPersonPoints": {
+            "Great General": 6
+        },
+        "color": [250,0,0]
     }
 ]
