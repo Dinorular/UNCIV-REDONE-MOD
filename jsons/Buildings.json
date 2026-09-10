@@ -19,8 +19,6 @@
         "requiredTech" : "Spirituality",
         "uniques": [
             "Only available <when religion is enabled>",
-            "Only available in <in cities with a [Shrine]",
-            "Shown while unbuildable",
             "Destroyed when the city is captured"
         ],
     }
