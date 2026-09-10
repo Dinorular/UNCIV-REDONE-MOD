@@ -17,9 +17,13 @@
         "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredTech" : "Philosophy",
-        "uniques": [
-            "Only available <when religion is enabled>",
-            "Destroyed when the city is captured"
-        ],
+    },
+    {
+        "name": "University"
+        "specialistSlots": {"Teacher": 1},
+    },
+    {
+        "name": "Public School",
+        "specialistSlots": {"Teacher": 1},
     }
 ]
