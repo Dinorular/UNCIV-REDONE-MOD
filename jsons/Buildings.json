@@ -25,6 +25,7 @@
 		"gold": 4,
 		"culture": 1,
 		"cost": 0,
+		"specialistSlots": {"Teacher": 1},
 		"cityStrength": 2,
 		"cityHealth": 10,
 		"isNationalWonder": true,
