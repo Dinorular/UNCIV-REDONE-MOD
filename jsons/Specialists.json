@@ -7,8 +7,7 @@
     },
     {
         "name": "Scholar",
-        "uniqueTo": "China"
-        "replaces": "Artist"
+        "uniqueTo": "China",
         "culture": 2,
         "science": 2,
         "greatPersonPoints": {
