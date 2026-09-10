@@ -2,6 +2,7 @@
     {
         "name": "Temple",
         "faith": 2,
+        "specialistSlots": {"Preacher": 1},
         "maintenance": 1,
         "hurryCostModifier": 25,
         "requiredTech" : "Spirituality",
