@@ -21,9 +21,11 @@
     {
         "name": "University"
         "specialistSlots": {"Teacher": 1},
+        "requiredTech": "Education"
     },
     {
         "name": "Public School",
         "specialistSlots": {"Teacher": 1},
+        "requiredTech": "Scientific Theory"
     }
 ]
