@@ -6,21 +6,11 @@
         "color": [255,255,255]
     },
     {
-        "name": "Teacher",
-        "greatPersonPoints": {
-            "Great Scientist" : 2,
-            "Great Engineer": 2,
-            "Great Merchant": 2,
-            "Great Artist": 2,
-            "Great Prophet": 2
-        },
-        "color": [0,230,240]
-    },
-    {
         "name": "Militant",
         "production": 1,
+        "food": 3,
         "greatPersonPoints": {
-            "Great General": 6
+            "Great General": 1000
         },
         "color": [250,0,0]
     }
