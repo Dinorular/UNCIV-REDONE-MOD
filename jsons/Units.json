@@ -2,9 +2,9 @@
     {
         "name": "Slinger",
         "unitType": "Archery",
-        "movement": 3,
+        "movement": 2,
         "strength": 4,
-        "rangedStrength": 7,
+        "rangedStrength": 6,
         "range": 2,
         "cost": 30,
         "requiredTech": "Agriculture",
