@@ -17,5 +17,13 @@
         "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredTech" : "Philosophy",
+    },
+    {
+        "name": "Teaching Grounds",
+        "isNationalWonder": true,
+        "specialistSlots": {"Teacher": 1},
+        "uniques": [
+            "Indicates the capital city"
+        ]
     }
 ]
