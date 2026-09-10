@@ -2,7 +2,23 @@
     {
         "name": "Preacher",
         "faith": 3,
-        "greatPersonPoints": {"Great Prophet": 1},
+        "greatPersonPoints": {"Great Prophet": 3},
         "color": [255,255,255]
+    },
+    {
+        "name": "Farmer",
+        "food": 5,
+        "color": [0,250,0]
+    },
+    {
+        "name": "Teacher",
+        "greatPersonPoints": {
+            "Great Scientist" : 2,
+            "Great Engineer": 2,
+            "Great Merchant": 2,
+            "Great Artist": 2,
+            "Great Prophet": 2
+        },
+        "color": [0,230,240]
     }
 ]
