@@ -2,7 +2,7 @@
     {
         "name": "Shrine",
         "faith": 1,
-        "specialistSlots": {"Preacher": 1},
+        "specialistSlots": {"Teacher": 1},
         "maintenance": 1,
         "hurryCostModifier": 10,
         "requiredTech" : "Pottery",
@@ -17,13 +17,5 @@
         "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredTech" : "Philosophy",
-    },
-    {
-        "name": "Testing",
-		"specialistSlots": {"Teacher" : 1},
-		"maintenance": 1,
-		"cost": 5,
-		"hurryCostModifier": 1
-		"requiredTech": "Pottery",
-	}
+    }
 ]
