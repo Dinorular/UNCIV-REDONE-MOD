@@ -90,11 +90,47 @@
     "cities": ["City One", "City Two"]
   },
   {
-    "name": "Inca",
-    "leaderName": "Pachacuti",
-    "adjective": ["Incan"],
+    "name": "Japan",
+    "leaderName": "Tokugawa Ieyasu",
+    "adjective": ["Japanese"],
 
-    "startIntroPart1": "Earth-shaking Monarch, Pachacuti..",
+    "startIntroPart1": "Mighty Shogun, Tokugawa..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "France",
+    "leaderName": "Charlemagne",
+    "adjective": ["French"],
+
+    "startIntroPart1": "Holy King of the Franks, Charlemagne..",
+
+    "introduction": "...",
+    "declaringWar": "...",
+    "attacked": "...",
+    "defeated": "...",
+    "denounced": "...",
+    "neutralHello": "Greetings.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,255,255],
+    "cities": ["City One", "City Two"]
+  },
+  {
+    "name": "England",
+    "leaderName": "Victoria",
+    "adjective": ["English"],
+
+    "startIntroPart1": "Beloved Queen, Victoria..",
 
     "introduction": "...",
     "declaringWar": "...",
