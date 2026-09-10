@@ -2,7 +2,7 @@
     {
         "name": "Shrine",
         "faith": 1,
-        "specialistSlots": {"Artist": 1},
+        "specialistSlots": {"Preacher": 1},
         "maintenance": 1,
         "hurryCostModifier": 10,
         "requiredTech" : "Pottery",
@@ -17,5 +17,13 @@
         "maintenance": 2,
         "hurryCostModifier": 25,
         "requiredTech" : "Philosophy",
-    }
+    },
+    {
+        "name": "Paper Maker",
+        "replaces": "Library",
+        "uniqueTo": "China",
+        "specialistSlots": {"Scholar": 2},
+        "cost": 50,
+        "hurryCostModifier": 25,
+        "requiredTech": "Writing",
 ]
