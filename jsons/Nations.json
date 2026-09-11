@@ -13,8 +13,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [231,213,0],
+    "innerColor": [98,10,210],
     "cities": ["City One", "City Two"],
   },
   {
@@ -31,8 +31,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [230,0,0],
+    "innerColor": [205,225,0],
     "cities": ["City One", "City Two"]
   },
   {
@@ -49,8 +49,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [15,115,5],
+    "innerColor": [255,168,81],
     "cities": ["City One", "City Two"]
   },
   {
@@ -67,8 +67,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [27,53,63],
+    "innerColor": [213,249,255],
     "cities": ["City One", "City Two"]
   },
   {
@@ -85,8 +85,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [255,255,255],
+    "innerColor": [65,141,254],
     "cities": ["City One", "City Two"]
   },
   {
@@ -103,8 +103,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [255,255,255],
+    "innerColor": [188,0,45],
     "cities": ["City One", "City Two"]
   },
   {
@@ -121,8 +121,8 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,255,255],
+    "outerColor": [38,98,255],
+    "innerColor": [239,236,148],
     "cities": ["City One", "City Two"]
   },
   {
@@ -139,7 +139,7 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
-    "outerColor": [0,0,0],
+    "outerColor": [114,0,0],
     "innerColor": [255,255,255],
     "cities": ["City One", "City Two"]
   }
