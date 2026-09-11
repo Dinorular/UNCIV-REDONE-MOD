@@ -13,6 +13,12 @@
     "denounced": "...",
     "neutralHello": "Greetings.",
 
+    "uniqueName": "Gifts of the Nile",
+    "uniques": [
+      "[+2 Production] from every [River]",
+      "[+3 Culture] from every [World Wonder]"
+    ],
+
     "outerColor": [231,213,0],
     "innerColor": [98,10,210],
     "cities": ["City One", "City Two"],
