@@ -3,6 +3,7 @@
     "name": "Egypt",
     "leaderName": "Hatshepsut",
     "adjective": ["Egyptian"],
+    "startBias": ["River"],
 
     "startIntroPart1": "Queen of the Nile, Hatshepsut..",
 
@@ -15,8 +16,8 @@
 
     "uniqueName": "Gifts of the Nile",
     "uniques": [
-      "[+2 Production] from every [River]",
-      "[+3 Culture] from every [World Wonder]"
+      "[+1 Production] from every [River]",
+      "[+5 Culture] from every [World Wonder]"
     ],
 
     "outerColor": [231,213,0],
