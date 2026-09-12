@@ -39,7 +39,7 @@
     "neutralHello": "Greetings.",
 
     "outerColor": [230,0,0],
-    "innerColor": [205,225,0],
+    "innerColor": [225,225,100],
     "cities": ["City One", "City Two"]
   },
   {
@@ -85,11 +85,11 @@
 
     "startIntroPart1": "Father of Diplomacy, Solon..",
 
-    "introduction": "...",
-    "declaringWar": "...",
-    "attacked": "...",
-    "defeated": "...",
-    "denounced": "...",
+    "introduction": "‎I am Solon of Athens. Founder of Democracy. I greet you and your people on behalf of Greece.",
+    "declaringWar": "The government of your nation is run by barbarians. It is about time we must reform it.",
+    "attacked": "Greece will not bow before your aggression.",
+    "defeated": "You may brandish an iron sword, but my words will remain unbroken by your conquest for generations to come.",
+    "denounced": "Distrust between rulers, means discord between civillians.",
     "neutralHello": "Greetings.",
 
     "outerColor": [255,255,255],
