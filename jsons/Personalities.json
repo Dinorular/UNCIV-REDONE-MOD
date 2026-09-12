@@ -1,5 +1,19 @@
 [
   {
-    "name": "Hatshepsut"
+    "name": "Hatshepsut",
+    "production": 8,
+    "food": 7,
+    "gold": 5,
+    "science": 3,
+    "culture": 8,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 3,
   }
 ]
