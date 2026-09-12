@@ -22,14 +22,14 @@
     "food": 5,
     "gold": 5,
     "science": 9,
-    "culture": 7,
+    "culture": 8,
     "happiness": 6,
     "faith": 5,
     "military": 5,
     "aggressive": 3,
     "declareWar": 3,
     "commerce": 5,
-    "loyal": 4,
+    "loyal": 2,
     "expansion": 6
   },
   {
