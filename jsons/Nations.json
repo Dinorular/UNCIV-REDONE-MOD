@@ -43,6 +43,13 @@
     "denounced": "Your words are sharp. Other things are sharper.",
     "neutralHello": "Greetings.",
 
+    "uniqueName": "Dynastic Cycle",
+    "uniqueText": "[+1 Science] from Artists",
+    "uniques": [
+      "[+1 Science] from every [Artist]",
+      "[+1 Science] from every specialist"
+    ],
+
     "outerColor": [230,0,0],
     "innerColor": [225,225,100],
     "cities": ["City One", "City Two"]
