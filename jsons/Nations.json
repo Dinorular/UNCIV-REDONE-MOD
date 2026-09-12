@@ -12,13 +12,13 @@
     "declaringWar": "When we are done, the lone and level sands will be all that remains of you.",
     "attacked": "The nau-snake is in my belly, and I have not given myself to you, your flame will not be on me.",
     "defeated": "Open the Netherworld so that I may see my father Osiris. All you spirits, prepare a path for me.",
-    "denounced": "...",
+    "denounced": "Osiris awaits your death in the Netherworld for you have disrespected his son.",
     "neutralHello": "Greetings.",
 
     "uniqueName": "Gifts of the Nile",
-    "uniqueText": "[+2 Production], [+1 Food], and [+1 Gold] from [River] Tiles\n+1[+5 Culture] from World Wonders",
+    "uniqueText": "[+1 Production], [+1 Food], and [+1 Gold] from [River] Tiles\n[+5 Culture] from World Wonders",
     "uniques": [
-      "[+2 Production] from every [River]",
+      "[+1 Production] from every [River]",
       "[+1 Food] from every [River]",
       "[+1 Gold] from every [River]",
       "[+5 Culture] from every [World Wonder]"
@@ -129,7 +129,7 @@
     "declaringWar": "My fury is upon you. None shall escape.",
     "attacked": "The blades of the righteous, the banner of heaven. It is you who should fear.",
     "defeated": "With this, I must cast my crown aside, to be washed in the tears of the faithful and God's own holy rain.",
-    "denounced": "...",
+    "denounced": "Everyone has their admirers and abhorers. You have gained yourself a new abhorer.",
     "neutralHello": "Greetings.",
 
     "outerColor": [38,98,255],
