@@ -14,6 +14,7 @@
     "defeated": "Open the Netherworld so that I may see my father Osiris. All you spirits, prepare a path for me.",
     "denounced": "Osiris awaits your death in the Netherworld for you have disrespected his son.",
     "neutralHello": "Greetings.",
+    "hateHello": "What do you want?",
 
     "uniqueName": "Gifts of the Nile",
     "uniqueText": "[+1 Production] and [+1 Food] from [River] Tiles\n[+5 Culture] from World Wonders",
@@ -41,6 +42,7 @@
     "defeated": "Please... I'm sure we could work something out. This doesn't have to be the end... does it?",
     "denounced": "Your words are sharp. Other things are sharper.",
     "neutralHello": "Greetings.",
+    "hateHello": "...",
 
     "uniqueName": "Dynastic Cycle",
     "uniqueText": "[+2 Science] from Artists\nArtists produce less [Culture]",
@@ -66,7 +68,8 @@
     "attacked": "India does not fear war. The most you can do is slow our rightful advance.",
     "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
     "denounced": "Though I ignore your cruel words, India will long remember them.",
-    "neutralHello": "Greetings.",
+    "neutralHello": "Good Day.",
+    "hateHello": "What?",
 
     "outerColor": [15,115,5],
     "innerColor": [255,168,81],
@@ -85,6 +88,7 @@
     "defeated": "Anu! Answer your servant! Why have you allowed my defeat?",
     "denounced": "Lawless vulture! It is only by my great mercy that I still speak with you.",
     "neutralHello": "Greetings.",
+    "hateHello": "What now?!",
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
@@ -102,7 +106,8 @@
     "attacked": "Greece will not bow before your aggression.",
     "defeated": "You may brandish an iron sword, but my words will remain unbroken by your conquest for generations to come.",
     "denounced": "Distrust between rulers, means discord between civillians.",
-    "neutralHello": "Greetings.",
+    "neutralHello": "Greetings, friend.",
+    "hateHello": "?",
 
     "outerColor": [255,255,255],
     "innerColor": [65,141,254],
@@ -121,6 +126,7 @@
     "defeated": "The summer grasses are all that remains of warriors' dreams.",
     "denounced": "We can manage our own affairs. Without you.",
     "neutralHello": "Greetings.",
+    "hateHello": "What do you want?",
 
     "outerColor": [255,255,255],
     "innerColor": [188,0,45],
@@ -138,7 +144,8 @@
     "attacked": "The blades of the righteous, the banner of heaven. It is you who should fear.",
     "defeated": "With this, I must cast my crown aside, to be washed in the tears of the faithful and God's own holy rain.",
     "denounced": "Everyone has their admirers and abhorers. You have gained yourself a new abhorer.",
-    "neutralHello": "Greetings.",
+    "neutralHello": "Hello.",
+    "hateHello": "What now?",
 
     "outerColor": [38,98,255],
     "innerColor": [239,236,148],
@@ -156,7 +163,8 @@
     "attacked": "War? We are not amused.",
     "defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
     "denounced": "You tread on dangerous waters in the face of England and her loyal colonies.",
-    "neutralHello": "Greetings.",
+    "neutralHello": "Good Day.",
+    "hateHello": "YOU again?",
 
     "outerColor": [114,0,0],
     "innerColor": [255,255,255],
