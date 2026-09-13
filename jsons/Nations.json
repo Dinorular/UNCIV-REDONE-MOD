@@ -45,10 +45,10 @@
     "hateHello": "...",
 
     "uniqueName": "Dynastic Cycle",
-    "uniqueText": "[+2 Science] from Artists\nArtists produce less [Culture]",
     "uniques": [
       "[+2 Science] from every [Artist]",
-      "[-1 Culture] from every [Artist]"
+      "[+50]% [Science] [in all cities] <during a Golden Age>",
+      "Free Social Policy <upon entering a Golden Age>"
     ],
 
     "outerColor": [230,0,0],
