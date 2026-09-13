@@ -16,11 +16,10 @@
     "neutralHello": "Greetings.",
 
     "uniqueName": "Gifts of the Nile",
-    "uniqueText": "[+1 Production], [+1 Food], and [+1 Gold] from [River] Tiles\n[+5 Culture] from World Wonders",
+    "uniqueText": "[+1 Production] and [+1 Food] from [River] Tiles\n[+5 Culture] from World Wonders",
     "uniques": [
       "[+1 Production] from every [River]",
       "[+1 Food] from every [River]",
-      "[+1 Gold] from every [River]",
       "[+5 Culture] from every [World Wonder]"
     ],
 
@@ -44,10 +43,10 @@
     "neutralHello": "Greetings.",
 
     "uniqueName": "Dynastic Cycle",
-    "uniqueText": "[+1 Science] from Artists",
+    "uniqueText": "[+2 Science] from Artists\nArtists produce less [Culture]",
     "uniques": [
-      "[+1 Science] from every [Artist]",
-      "[+1 Science] from every specialist [in all cities]"
+      "[+2 Science] from every [Artist]",
+      "[-1 Culture] from every [Artist]"
     ],
 
     "outerColor": [230,0,0],
