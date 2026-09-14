@@ -87,7 +87,7 @@
     "defeated": "Anu! Answer your servant! Why have you allowed my defeat?",
     "denounced": "Lawless vulture! It is only by my great mercy that I still speak with you.",
     "neutralHello": "Greetings.",
-    "hateHello": "What now?!",
+    "hateHello": "You again?!",
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
@@ -125,7 +125,7 @@
     "defeated": "The summer grasses are all that remains of warriors' dreams.",
     "denounced": "We can manage our own affairs. Without you.",
     "neutralHello": "Greetings.",
-    "hateHello": "What do you want?",
+    "hateHello": "What do YOU want?",
 
     "outerColor": [255,255,255],
     "innerColor": [188,0,45],
@@ -149,25 +149,5 @@
     "outerColor": [38,98,255],
     "innerColor": [239,236,148],
     "cities": ["City One", "City Two"]
-  },
-  {
-    "name": "England",
-    "leaderName": "Victoria",
-    "adjective": ["English"],
-
-    "startIntroPart1": "Beloved Queen, Victoria..",
-
-    "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
-    "declaringWar": "As our protests are in vain, we hereby declare war.",
-    "attacked": "War? We are not amused.",
-    "defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
-    "denounced": "You tread on dangerous waters in the face of England and her loyal colonies.",
-    "neutralHello": "Good Day.",
-    "hateHello": "YOU again?",
-
-    "outerColor": [114,0,0],
-    "innerColor": [255,255,255],
-    "cities": ["City One", "City Two"]
   }
 ]
-    
