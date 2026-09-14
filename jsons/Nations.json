@@ -25,7 +25,7 @@
 
     "outerColor": [231,213,0],
     "innerColor": [98,10,210],
-    "cities": ["City One", "City Two"],
+    "cities": ["Waset","Men-Nefer", "City One", "City Two"],
   },
   {
     "name": "China",
@@ -52,7 +52,7 @@
 
     "outerColor": [230,0,0],
     "innerColor": [225,225,100],
-    "cities": ["City One", "City Two"]
+    "cities": ["Beijing", "Shanghai", "City One", "City Two"]
   },
   {
     "name": "India",
@@ -72,12 +72,13 @@
 
     "outerColor": [15,115,5],
     "innerColor": [255,168,81],
-    "cities": ["City One", "City Two"]
+    "cities": ["Delhi", "Mumbai", "City One", "City Two"]
   },
   {
     "name": "Babylon",
     "leaderName": "Hammurabi",
     "adjective": ["Babylonian"],
+    "personality": "Hammurabi",
 
     "startIntroPart1": "Blessed One, Hammurabi..",
 
@@ -91,7 +92,7 @@
 
     "outerColor": [27,53,63],
     "innerColor": [213,249,255],
-    "cities": ["City One", "City Two"]
+    "cities": ["Babylon", "Akkad", "City One", "City Two"]
   },
   {
     "name": "Greece",
@@ -110,7 +111,7 @@
 
     "outerColor": [255,255,255],
     "innerColor": [65,141,254],
-    "cities": ["City One", "City Two"]
+    "cities": ["Athens", "Sparta", "Corinth", "Argos", "City One", "City Two"]
   },
   {
     "name": "Japan",
@@ -129,7 +130,7 @@
 
     "outerColor": [255,255,255],
     "innerColor": [188,0,45],
-    "cities": ["City One", "City Two"]
+    "cities": ["Kyoto", "Tokyo", "Osaka", "Satsuma", "City One", "City Two"]
   },
   {
     "name": "France",
@@ -148,6 +149,6 @@
 
     "outerColor": [38,98,255],
     "innerColor": [239,236,148],
-    "cities": ["City One", "City Two"]
+    "cities": ["Paris", "Orleans", "Lyon", "Troyes", "City One", "City Two"]
   }
 ]
