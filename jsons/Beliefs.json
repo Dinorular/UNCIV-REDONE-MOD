@@ -2,16 +2,22 @@
   {
     "name": "Ancestral Worship",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith, +2 Science, +2 Culture] from every [Monument]"]
+    "uniques": ["[+2 Faith, +2 Science, +1 Culture] from every [Monument]"]
   },
   {
     "name": "Fertility Rites",
     "type": "Pantheon",
-    "uniques": ["[+25]% growth [in this city]"]
+    "uniques": [
+      "[+25]% growth [in this city]",
+      "[+3 Happiness] [in this city]"
+    ]
   },
   {
     "name": "Oral Tradition",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith, +1 Culture] [in this city]"]
+    "uniques": [
+      "[+2 Faith, +1 Culture] [in this city]",
+      "Religion naturally spreads to cities [3] tiles away"
+    ]
   }
 ]
