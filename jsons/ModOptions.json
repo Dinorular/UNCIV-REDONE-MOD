@@ -29,7 +29,7 @@
         "Khan"
     ]
 	"beliefsToRemove": [
-		"Ancestor Worship", "Dance of the Aurora", "Desert Folklore", "Faith Healers", "God of Craftsman", "God of the Open Sky", "God of the Sea", "God of War", "God of Festivals", "Goddess of Love", "Goddess of Protection", "Goddess of the Hunt", "Goddess of Festivals", "Messenger of the Gods", "Monument to the Gods", "One with Nature",
+		"Ancestor Worship", "Dance of the Aurora", "Desert Folklore", "Faith Healers", "God of Craftsman", "God of the Open Sky", "God of War", "God of Festivals", "Goddess of Love", "Goddess of Protection", "Goddess of Festivals", "Messenger of the Gods", "Monument to the Gods",
 		"Religious Idols", "Religious Settlements", "Sacred Path", "Sacred Waters", "Stone Circles"
 	]
 }
