@@ -21,10 +21,17 @@
     ]
   },
   {
-    "name": "One with Nature",
+    "name": "God of the Sea",
     "type": "Pantheon",
     "uniques": [
-      "[+2 Faith] from [Natural Wonders] [in this city]"
+      "[+1 Production, +1 Faith] from every [Fishing Boats]"
+    ]
+  },
+  {
+    "name": "Goddess of the Hunt",
+    "type": "Pantheon",
+    "uniques": [
+      "[+1 Food, +1 Faith] from every [Camp]"
     ]
   },
   {
